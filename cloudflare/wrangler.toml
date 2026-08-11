@@ -5,4 +5,4 @@ compatibility_date = "2024-11-01"
 [[d1_databases]]
 binding = "DB"
 database_name = "khata-sync"
-database_id = "REPLACE_WITH_YOUR_DATABASE_ID"
+database_id = "e49e348a-df2c-42b9-988c-e3d969d2effe"
